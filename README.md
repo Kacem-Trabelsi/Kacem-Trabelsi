@@ -1,186 +1,226 @@
-# 👋 Kacem Trabelsi - Full-Stack JavaScript Engineer
+<div align="center">
+  <!-- Profile picture + name -->
+  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="180" style="border-radius:50%; border: 4px solid #00BFFF; box-shadow: 0 0 25px rgba(0,191,255,0.6);" alt="Kacem Trabelsi" />
 
-**Full-stack JavaScript engineer with 3 years of freelance experience and 2 years leading GDSC. Participated in hackathons across MENA region. Currently pursuing CS degree at ESPRIT.**
+  <h1>Hello 👋, I'm Kacem Trabelsi</h1>
 
----
+  <h3>Full-Stack JavaScript Engineer • Hackathon Enthusiast • Tunisia 🇹🇳</h3>
 
-## 📊 Quick Stats
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=650&lines=Full-Stack+JavaScript+Engineer;3+Years+of+Freelance+Experience;GDSC+Lead+for+2+Years;Building+Scalable+Web+Applications;Hackathon+Participant+Across+MENA;Clean+Code+%26+Modern+Architecture" alt="Typing SVG" />
+  </p>
 
-![](https://img.shields.io/badge/Experience-3+%20Years-blueviolet?style=flat-square)
-![](https://img.shields.io/badge/Leadership-GDSC%20Lead%202%20Years-blue?style=flat-square)
-![](https://img.shields.io/badge/Education-ESPRIT%204th%20Year-orange?style=flat-square)
-![](https://img.shields.io/badge/Specialization-Full%20Stack%20JS-red?style=flat-square)
+  <br>
 
----
+  <!-- Contact badges -->
+  <p>
+    <a href="mailto:kacem.trabelsi@esprit.tn">
+      <img src="https://img.shields.io/badge/Email-kacem.trabelsi%40esprit.tn-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
 
-## 🚀 Featured Projects
+    <a href="https://github.com/Kacem-Trabelsi">
+      <img src="https://img.shields.io/badge/GitHub-Kacem--Trabelsi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
 
-### ⭐ **Intone** - Plateforme de Talents (Featured Project)
-**A Next.js-powered talent management platform** - My best and most comprehensive project
+    <img src="https://img.shields.io/badge/Location-Tunisia-0077B5?style=for-the-badge&logo=google-maps&logoColor=white" alt="Tunisia" />
+  </p>
 
-- **Frontend:** Next.js, React, Responsive Design
-- **Backend:** Express.js, Node.js, JWT Authentication
-- **Database:** MongoDB
-- **Key Features:**
-  - Secure user registration with OTP email verification
-  - Role-based access control (Talent/Client)
-  - Professional profile management
-  - JWT-based session management
-  - CORS-protected API endpoints
-  - Email notification system  
-  
-📍 **Repository:** [Kacem-Trabelsi/intone](https://github.com/Kacem-Trabelsi/intone)  
-🔗 **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![Express.js](https://img.shields.io/badge/Express.js-90c53f?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
+  <br>
 
----
+  <img src="https://komarev.com/ghpvc/?username=Kacem-Trabelsi&color=00BFFF&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
 
-### 🏥 **MediFollow** - Post-Hospitalization Remote Monitoring Platform
-**Healthcare web platform with advanced accessibility features and brain MRI analysis**
+<br>
 
-- **Frontend:** React 18, Vite, Bootstrap 5
-- **Backend:** NestJS, MongoDB Atlas, Passport.js
-- **Key Features:**
-  - Multi-role authentication system (Super Admin, Admin, Doctor, Patient, etc.)
-  - Real-time vital parameter monitoring with charts
-  - Automatic alert system for abnormal values
-  - Brain MRI tumor detection using TensorFlow/ResNet50
-  - Accessibility features: Voice input, Text-to-speech, Facial recognition login, Gesture control
-  - Comprehensive audit trail and logging
-  - Email notifications (MFA, alerts)
-  
-📍 **Repository:** [Rahmaa-aa/Esprit-PIDEV-4TWIN1-2026-MediFollow](https://github.com/Rahmaa-aa/Esprit-PIDEV-4TWIN1-2026-MediFollow)  
-🔗 **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs) ![MongoDB](https://img.shields.io/badge/MongoDB%20Atlas-13aa52?style=flat-square&logo=mongodb) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+<h2 align="center">🏆 GitHub Profile Trophy</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kacem-Trabelsi&theme=radical&no-frame=false&margin-w=15" alt="Trophies" />
+</div>
 
 ---
 
-### 🅿️ **SynergyPark** - MERN Stack Parking Management System
-**Full-stack parking management and reservation system**
+<h2 align="center">🚀 About Me</h2>
 
-- **Tech Stack:** MongoDB, Express.js, React, Node.js (MERN)
-- **Features:** Real-time parking availability, Reservation system, User dashboard  
-  
-📍 **Repository:** [saber-barhoumi/SynergyPark-MERN-Stack](https://github.com/saber-barhoumi/SynergyPark-MERN-Stack)  
-🔗 **Tech Stack:** ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb) ![Express](https://img.shields.io/badge/Express-90c53f?style=flat-square&logo=express) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+<div align="center" style="max-width: 850px; margin: 0 auto;">
 
----
+Passionate Full-Stack JavaScript Engineer with **3 years of freelance experience** and **2 years leading GDSC communities**.  
+Currently pursuing a Computer Science Engineering degree at **ESPRIT** while building scalable, secure, and modern web applications.
 
-## 🛠️ Technical Skills
+I enjoy transforming ideas into real-world digital products using modern technologies like **React, Next.js, Node.js, NestJS, MongoDB, and TypeScript**.  
+I’m also passionate about hackathons, innovation, developer communities, and building impactful solutions across the MENA region.
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-90c53f?style=flat-square&logo=express&logoColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+</div>
 
 ---
 
-## 🏆 Hackathon Experience
+<h2 align="center">🛠️ Skills & Tools</h2>
 
-Participated in multiple prestigious hackathons across the MENA region:
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,mongodb,mysql,postgres" alt="Main Stack" />
+  </p>
 
-| Event | Organization | Region | Year |
-|-------|--------------|--------|------|
-| **Orange Digital Center** Hackathon | Orange | MENA | 2024-2025 |
-| **Baladey.tn** Challenge | Baladey | Tunisia | 2024-2025 |
-| **LabLab MENA** Hackathon | LabLab | MENA | 2024-2025 |
-| **Middle East & North Africa** Summit | Tech Summit | MENA | 2024-2025 |
-
----
-
-## 👨‍💼 Leadership & Experience
-
-### 🎓 GDSC Lead - 2 Years
-**Google Developer Student Club Leadership**
-- Led a community of developers at ESPRIT
-- Organized workshops on modern web technologies
-- Mentored junior developers
-- Conducted code reviews and best practices sessions
-- Promoted Google technologies and developer resources
-
-### 💼 Freelance Experience - 3 Years
-- Full-stack JavaScript development for various clients
-- Project management and deadline delivery
-- Client communication and requirement analysis
-- Quality assurance and testing
-- Performance optimization and security implementation
-
-### 🏫 Education
-- **Current:** 4th Year Computer Science Engineer - **ESPRIT** (École Supérieure Privée d'Ingénierie et de Technologies)
-- **Previous:** Bachelor's Degree - **ISI Kef** (Institut Supérieur d'Informatique de Kef)
+  <p>
+    <img src="https://skillicons.dev/icons?i=vue,angular,vite,bootstrap,tailwind,docker,git,github,figma,postman,tensorflow" alt="Tools" />
+  </p>
+</div>
 
 ---
 
-## 📫 Contact & Links
+<h2 align="center">🚀 Featured Projects</h2>
 
-- **Email:** [kacem.trabelsi@esprit.tn](mailto:kacem.trabelsi@esprit.tn)
-- **GitHub:** [@Kacem-Trabelsi](https://github.com/Kacem-Trabelsi)
-- **Location:** Tunisia
+<div align="center">
 
----
+## ⭐ Intone — Talent Management Platform
 
-## 🎯 What I'm Looking For
+**A modern Next.js-powered platform for managing talents and clients**
 
-- ✅ **Full-Time Opportunities** - Senior/Mid-level Full-Stack positions
-- ✅ **Freelance Projects** - Web development contracts
-- ✅ **Internships** - Expand skills and work on innovative projects
-- ✅ **Collaborations** - Open-source contributions and partnerships
+🔹 Secure OTP authentication  
+🔹 Role-based access control  
+🔹 JWT session management  
+🔹 Email notification system  
+🔹 Responsive modern UI  
 
----
+📍 Repository:  
+<a href="https://github.com/Kacem-Trabelsi/intone">Kacem-Trabelsi/intone</a>
 
-## 📈 GitHub Statistics
+<br>
 
-![](https://img.shields.io/badge/Repositories-15%2B-informational?style=flat-square)
-![](https://img.shields.io/badge/Public%20Contributions-Active-success?style=flat-square)
-![](https://img.shields.io/badge/Languages-JavaScript%2C%20TypeScript%2C%20Python-blue?style=flat-square)
-
----
-
-## 🔗 Quick Links
-
-- 🌟 [Intone Project](https://github.com/Kacem-Trabelsi/intone) - Featured Full-Stack Platform
-- 🏥 [MediFollow Project](https://github.com/Rahmaa-aa/Esprit-PIDEV-4TWIN1-2026-MediFollow) - Healthcare Platform
-- 🅿️ [SynergyPark Project](https://github.com/saber-barhoumi/SynergyPark-MERN-Stack) - Parking Management
-- 👤 [GitHub Profile](https://github.com/Kacem-Trabelsi) - All repositories
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
+<img src="https://img.shields.io/badge/Express.js-90c53f?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens" />
 
 ---
 
-## 💡 Principles
+## 🏥 MediFollow — Remote Healthcare Platform
 
-- **Clean Code:** Following industry standards and best practices
-- **User-Centric:** Designing with accessibility and UX in mind
-- **Scalability:** Building solutions that grow with needs
-- **Security:** Implementing best practices for data protection
-- **Continuous Learning:** Staying updated with latest technologies
+**Post-hospitalization monitoring platform with AI-powered MRI analysis**
+
+🔹 Multi-role authentication system  
+🔹 Real-time patient monitoring  
+🔹 TensorFlow MRI tumor detection  
+🔹 Accessibility features  
+🔹 Audit trail & notifications  
+
+📍 Repository:  
+<a href="https://github.com/Rahmaa-aa/Esprit-PIDEV-4TWIN1-2026-MediFollow">MediFollow Repository</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs" />
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-13aa52?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" />
+
+---
+
+## 🅿️ SynergyPark — MERN Parking Management
+
+**Full-stack parking reservation and management system**
+
+🔹 Real-time parking availability  
+🔹 Reservation system  
+🔹 User dashboard  
+🔹 MERN architecture  
+
+📍 Repository:  
+<a href="https://github.com/saber-barhoumi/SynergyPark-MERN-Stack">SynergyPark Repository</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/Express.js-90c53f?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+
+</div>
+
+---
+
+<h2 align="center">🏆 Leadership & Experience</h2>
+
+<div align="center">
+
+🎓 **GDSC Lead — 2 Years**  
+Led developer communities, organized workshops, mentored students, and promoted modern technologies.
+
+💼 **Freelance Full-Stack Developer — 3 Years**  
+Built scalable web applications for clients with focus on performance, security, and clean architecture.
+
+🌍 **Hackathon Participant Across MENA**  
+Participated in innovation and startup competitions across the MENA region.
+
+🏫 **Education**  
+- ESPRIT — Computer Science Engineering  
+- ISI Kef — Bachelor's Degree  
+
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kacem-Trabelsi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kacem-Trabelsi&layout=compact&theme=radical&hide_border=true&langs_count=8" width="40%" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kacem-Trabelsi&theme=radical&hide_border=true" alt="Streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kacem-Trabelsi&theme=react-dark&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+
+</div>
+
+---
+
+<h3 align="center">Contribution Chart</h3>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/Kacem-Trabelsi" alt="Contribution Chart" />
+</div>
+
+---
+
+<h2 align="center">📫 Contact & Links</h2>
+
+<div align="center">
+
+📧 Email:  
+<a href="mailto:kacem.trabelsi@esprit.tn">kacem.trabelsi@esprit.tn</a>
+
+💻 GitHub:  
+<a href="https://github.com/Kacem-Trabelsi">@Kacem-Trabelsi</a>
+
+🌍 Location: Tunisia 🇹🇳
+
+</div>
 
 ---
 
 <div align="center">
 
-**Let's build something amazing together! 🚀**
+## 🎯 Current Goals
 
-*Last updated: 2026-04-22*
+🚀 Build scalable SaaS products  
+🌍 Collaborate on impactful open-source projects  
+💼 Explore full-time and freelance opportunities  
+🧠 Continue learning advanced software architecture  
 
 </div>
+
+---
+
+<div align="center">
+
+### ⭐ From Kacem Trabelsi — Let's build something amazing together! 🚀
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
